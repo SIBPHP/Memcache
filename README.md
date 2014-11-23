@@ -1,4 +1,4 @@
-# Config
+# Memcache
 Memcache manager based on php_memcache extension
 Support multi memcache servers easier through configuration
 
